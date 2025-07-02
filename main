@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rev Boost - AI Lead Follow-up Automation</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #f9fafb;
+      color: #111827;
+      line-height: 1.6;
+    }
+    header {
+      padding: 2rem;
+      text-align: center;
+      background: #ffffff;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+    }
+    .hero {
+      padding: 4rem 2rem;
+      text-align: center;
+      background-color: #e0f2fe;
+    }
+    .hero h2 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+    }
+    .hero p {
+      font-size: 1.125rem;
+      margin-bottom: 2rem;
+    }
+    .btn {
+      padding: 1rem 2rem;
+      background: #2563eb;
+      color: white;
+      text-decoration: none;
+      border-radius: 0.5rem;
+      font-weight: 600;
+    }
+    section {
+      padding: 3rem 2rem;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    section h3 {
+      font-size: 1.75rem;
+      margin-bottom: 1rem;
+    }
+    ul {
+      list-style: disc;
+      padding-left: 1.5rem;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.875rem;
+      color: #6b7280;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Rev Boost</h1>
+  </header>
+
+  <div class="hero">
+    <h2>Automate Your Lead Follow-Ups with AI</h2>
+    <p>Respond instantly. Close more deals. Never miss a lead again.</p>
+    <a href="#demo" class="btn">Book a Free Demo</a>
+  </div>
+
+  <section>
+    <h3>What Rev Boost Does</h3>
+    <ul>
+      <li>Instantly follow up with new leads via email or SMS</li>
+      <li>Use natural, on-brand AI messaging</li>
+      <li>Boost conversions and save hours every week</li>
+    </ul>
+  </section>
+
+  <section>
+    <h3>More Than Just Follow-Ups</h3>
+    <p>We're expanding Rev Boost to handle:</p>
+    <ul>
+      <li>Client onboarding automation</li>
+      <li>Missed call follow-ups</li>
+      <li>Proposal reminders & reactivation flows</li>
+    </ul>
+  </section>
+
+  <section>
+    <h3 id="demo">Ready to See It in Action?</h3>
+    <p>Book a free setup call or DM "BOOST" to get started:</p>
+    <a href="#" class="btn">Schedule Demo</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Rev Boost. All rights reserved.</p>
+  </footer>
+</body>
+</html>
